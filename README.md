@@ -8,6 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kwarsanaut&color=brightgreen)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kwarsanaut/github-readme-stats)
+
 ### 🛠️ Tech Stack
 
 **Languages:**
