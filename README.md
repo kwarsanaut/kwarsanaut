@@ -6,8 +6,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kwarsanaut&theme=react-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kwarsanaut&color=brightgreen)
-
 ### 🛠️ Tech Stack
 
 **Languages:**
