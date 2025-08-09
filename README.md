@@ -4,7 +4,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwarsanaut&theme=react&card_width=470)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kwarsanaut&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kwarsanaut&theme=react-card)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kwarsanaut&color=brightgreen)
 
