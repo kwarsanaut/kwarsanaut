@@ -7,7 +7,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kwarsanaut&theme=react-dark)
 
 ### 🛠️ Tech Stack
-
 **Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
