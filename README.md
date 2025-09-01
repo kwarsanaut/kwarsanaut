@@ -48,7 +48,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kwarsanaut&theme=onedark)
+##![trophy](https://github-profile-trophy.vercel.app/?username=kwarsanaut&theme=onedark)
 
 ### 📫 Connect with me:
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)https://www.linkedin.com/in/kwarsarajab/
