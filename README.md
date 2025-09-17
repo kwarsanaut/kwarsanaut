@@ -1,5 +1,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kwarsanaut&layout=compact&theme=radical)
-#
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwarsanaut&theme=react&card_width=470)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kwarsanaut&theme=react-dark)
